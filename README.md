@@ -2,6 +2,7 @@
 [![Dependency Status](https://david-dm.org/Bttstrp/bootstrap-switch.svg?style=flat)](https://david-dm.org/Bttstrp/bootstrap-switch)
 [![devDependency Status](https://david-dm.org/Bttstrp/bootstrap-switch/dev-status.svg?style=flat)](https://david-dm.org/Bttstrp/bootstrap-switch#info=devDependencies)
 [![NPM Version](http://img.shields.io/npm/v/bootstrap-switch.svg?style=flat)](https://www.npmjs.org/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fbootstrap-switch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fbootstrap-switch?ref=badge_shield)
 
 Turn checkboxes and radio buttons into toggle switches. Created by [Mattia Larentis](http://github.com/nostalgiaz), maintained by [Emanuele Marchi](http://github.com/lostcrew) and [Peter Stein](http://www.bdmdesign.org) with the help of the community.
 
@@ -74,3 +75,6 @@ Please do not use the issue tracker for personal support requests: [Stack Overfl
 
 Licensed under the [MIT License](https://github.com/Bttstrp/bootstrap-switch/blob/master/LICENSE).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fbootstrap-switch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fbootstrap-switch?ref=badge_large)
